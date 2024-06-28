@@ -1,0 +1,43 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/JavaScript.png"
+      },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/Node.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/MySQL.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/Cplusplus.png"
+      },
+      {
+        "title": "Java",
+        "imageSrc": "skills/Java.png"
+      },
+      {
+        "title": "Linux",
+        "imageSrc": "skills/Linux.png"
+      }
+  ]
+  

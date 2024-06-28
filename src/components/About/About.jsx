@@ -29,6 +29,7 @@ export const About = () => {
                   </li>
               </ul>
           </div>
+          <div className={styles.topBlur} /> 
       </section>
   )
 }
