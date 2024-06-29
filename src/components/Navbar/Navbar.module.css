@@ -17,6 +17,9 @@
     color: var(--color-text);
 }
 
+.menuBtn {
+  display: none;
+}
 .menu {
     display: flex;
 }
@@ -32,6 +35,8 @@
     color: var(--color-text);
     text-decoration: none;
 }
+
+
 
 @media screen and (max-width: 830px){
     .navbar{
@@ -49,7 +54,7 @@
         z-index:3;
     }
 
-    .menuBtr {
+    .menuBtn {
         display: block;
         cursor: pointer;
     }
@@ -59,9 +64,10 @@
         flex-direction: column;
         align-items: center;
         gap:13px;
-        border-radius: 10px;
+        border-radius: 20px;
         background: rgb(25,25,109);
         background: linear-gradient(0deg,rgba(25,55,109,0.2) 0%,rgba(25,55,109,1) 100%);
+        backdrop-filter: blur(15px);
         padding: 24px 33px;
         box-shadow: 0 0 4px 0 rgba(0,0,0,0,25);
 

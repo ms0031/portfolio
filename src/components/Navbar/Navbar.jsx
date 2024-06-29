@@ -24,7 +24,7 @@ export const Navbar = () => {
                         <a href="#Associations">ASSOCIATIONS</a>
                     </li>
                     <li>
-                        <a href="#Utilities">UTILITIES</a>
+                        <a href="#Contact">CONTACT</a>
                     </li>
                 </ul>
             </div>

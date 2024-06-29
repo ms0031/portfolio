@@ -24,12 +24,10 @@
     font-weight: 900;
     margin-bottom: 33px;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg,rgb(255, 255, 255,1) 75%,rgba(255,255,255,0) 120%);
+    background: linear-gradient(90deg,rgb(255, 255, 255,1) 70%,rgba(255,255,255,0) 120%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    background-size: 70% 100%;
-    background-repeat: no-repeat;
-    transition: 0.4s;
+    transition: 0.2s;
 }
 
 .description{
@@ -61,7 +59,7 @@
 
 .contactBtn:hover {
     transform: scale(1.1);
-    background-color: white;
+    background-color: rgb(222, 222, 222);
     color: var(--color-dark);
   }
 
