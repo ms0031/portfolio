@@ -17,7 +17,7 @@ export const Associations = () => {
                     <div className={styles.clubContent}>
                     <h3>{club.position}</h3>
                     <h3>{club.title}</h3>
-                        <h3>{club.location}</h3>
+                    <p>{club.location}</p>
                     </div>
               </div>
             );

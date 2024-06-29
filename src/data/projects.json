@@ -1,19 +1,19 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Advanced Portfolio Website",
+      "imageSrc": "projects/project1.png",
+      "description": "Designed and developed a responsive portfolio website to showcase my projects and skills.",
+      "skills": ["HTML","CSS", "JavaScript", "React JS"],
+      "demo": "#",
+      "source": "https://github.com/ms0031/portfolio"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Placement-Portal WebApp",
+      "imageSrc": "projects/project2.png",
+      "description": "Created a all-in-one platform for students to stay updated on placement opportunities.",
+      "skills": ["React JS", "Express JS", "Node JS", "MongoDB"],
+      "demo": "#",
+      "source": "#"
     }
   ]
   
