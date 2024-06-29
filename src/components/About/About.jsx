@@ -7,14 +7,14 @@ export const About = () => {
           <h2 className={styles.title}>About</h2>
           <div className={styles.content}>
               <img
-                  src={getImageUrl("about/aboutImage.png")} alt="about image" className={styles.aboutImage} />
+                  src={getImageUrl("about/aboutImage5.png")} alt="about image" className={styles.aboutImage} />
               <ul className={styles.aboutItems}>
                   <li className={styles.aboutItem}>
                       <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon"/>
                         <div className={styles.aboutItemText}>
                           <h3>Frontend Developer</h3>
                           <p>
-                              II'm a frontend developer with experience in building responsive and optimized sites, focusing on creating user-friendly interfaces and ensuring cross-browser compatibility.
+                              I'm a frontend developer with experience in building responsive and optimized sites, focusing on creating user-friendly interfaces and ensuring cross-browser compatibility.
                           </p>
                         </div>
                   </li>
