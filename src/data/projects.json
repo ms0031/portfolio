@@ -1,19 +1,36 @@
 [
+    
+  {
+      "title": "MOOC Test Platform",
+      "imageSrc": "projects/mooc-test.png",
+      "description": "A comprehensive online testing platform for MOOCs (Massive Open Online Courses).",
+      "skills": ["NextJS", "ReactJS", "TypeScript", "MongoDB", "NextAuth", "Tailwind CSS"],
+      "demo": "https://mooctest.vercel.app/",
+      "source": "https://github.com/ms0031/mooc-test"
+    },
+    {
+      "title": "Big-O Complexity Analyzer",
+      "imageSrc": "projects/big-o.png",
+      "description": "A web application that analyzes code snippets and determines their time and space complexity using AI technology.",
+      "skills": ["NextJS", "ReactJS", "TypeScript", "Tailwind CSS","OpenRouter"],
+      "demo": "https://big-o-bot.vercel.app/",
+      "source": "https://github.com/ms0031/Big-O"
+    },
     {
       "title": "Advanced Portfolio Website",
-      "imageSrc": "projects/project1.png",
+      "imageSrc": "projects/portfolio.png",
       "description": "Designed and developed a responsive portfolio website to showcase my projects and skills.",
-      "skills": ["HTML","CSS", "JavaScript", "React JS"],
-      "demo": "#",
+      "skills": ["HTML","CSS", "JavaScript", "ReactJS"],
+      "demo": "https://ms0031.netlify.app/",
       "source": "https://github.com/ms0031/portfolio"
     },
     {
       "title": "Placement-Portal WebApp",
-      "imageSrc": "projects/project2.png",
+      "imageSrc": "projects/tnp-bit.png",
       "description": "Created a all-in-one platform for students to stay updated on placement opportunities.",
-      "skills": ["React JS", "Express JS", "Node JS", "MongoDB"],
-      "demo": "#",
-      "source": "#"
+      "skills": ["ReactJS", "ExpressJS", "NodeJS", "MongoDB"],
+      "demo": "https://bit-tnp.pages.dev/",
+      "source": "https://github.com/ms0031/TNP_BIT"
     }
   ]
   
